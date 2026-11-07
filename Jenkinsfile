@@ -9,7 +9,7 @@ pipeline {
     GROUP_ID       = 'com.example'
     ARTIFACT_ID    = 'hello-world'
     VERSION        = '1.0.0-SNAPSHOT'
-    NEXUS_BASE     = 'https://nexus.clarusway.click'
+    NEXUS_BASE     = 'https://nexus.fatma.click'
   }
 
   stages {
